@@ -1,0 +1,7 @@
+DevOps is a combination of practices, tools, and cultural philosophies that aims to improve the process of delivering applications and services: 
+Integration: DevOps integrates software development and IT operations into a single, continuous process. 
+Collaboration: DevOps encourages collaboration between development, IT operations, quality engineering, and security teams. 
+Automation: DevOps automates processes that were previously manual and slow. 
+Speed: DevOps enables organizations to deliver applications and services faster than traditional software development methods. 
+Reliability: DevOps helps organizations produce more reliable products. 
+The term DevOps is a combination of the words "development" and "operations". The DevOps movement began around 2007 when the software development and IT operations communities recognized the need to improve the traditional software development model
